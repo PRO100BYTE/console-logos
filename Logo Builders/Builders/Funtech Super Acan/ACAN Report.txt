@@ -1,0 +1,64 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ACAN.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: inches
+Artboard Dimensions: 8.5 in x 11 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/imac4/Desktop/untitled folder/Logos Left References/untitled folder 6/img_8594.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 21498K, 3128 by 2346 pixels
+Dimensions: 1251.2 by 938.4 points 
+Resolution: 180 by 180 pixels per inch
+
+
+/Users/imac4/Desktop/untitled folder/Logos Left References/untitled folder 6/255916-xi-you-ji-super-a-can-front-cover.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 3328K, 800 by 1420 pixels
+Dimensions: 290.734 by 516.052 points 
+Resolution: 198.119 by 198.119 pixels per inch
+
+
+/Users/imac4/Desktop/untitled folder/Logos Left References/untitled folder 6/Super A'can Manual_0000.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 7577K, 1165 by 2220 pixels
+Dimensions: 1165 by 2220 points 
+Resolution: 72 by 72 pixels per inch
