@@ -1,0 +1,25 @@
+Add missing already made files
+Add new files to collection
+atari 7800 version
+Add new folder "White Outline" >"thick outlines - preferred"
+Check All System Names (to be as clear as possible)
+List Platforms
+List Fonts
+Show More Example Images/Proof
+Update description and upload on LB / Reddit and Archive.org
+
+
+missing from "Recommended Versions (Normal) (1 per platform) (Created By Dan Patrick)"
+Not in Light or Dark color packs:
+Arcades:
+Sammy Atomiswave
+Consoles:
+Philips CD-i
+Sega SG-1000
+Computers:
+PC Games
+
+Not in Light - Color pack:
+Namco Classics
+
+List ones only in PDF!

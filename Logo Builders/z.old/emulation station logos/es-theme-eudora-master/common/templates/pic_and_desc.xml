@@ -1,0 +1,64 @@
+<theme>
+    <formatVersion>3</formatVersion>
+	
+<!-- Game View - Detailed -->	
+	<view name="detailed">
+		<image name="md_image">
+			<origin>0.5 0.5</origin>
+			<pos>0.695 0.42495</pos>
+			<maxSize>0.47205 0.3704</maxSize>
+		</image>
+	</view>
+
+<!-- Game View - Video -->
+	<feature supported="video">
+		<view name="video">
+			<video name="md_video">
+				<origin>0.5 0.5</origin>
+				<pos>0.695 0.42495</pos>
+				<maxSize>0.47205 0.3704</maxSize>
+				<showSnapshotNoVideo>true</showSnapshotNoVideo>
+				<showSnapshotDelay>true</showSnapshotDelay>
+				<delay>2</delay>
+				<default></default>
+			</video>
+		</view>
+	</feature>
+
+<!-- Game View - Detailed, Video -->	
+	<view name="detailed, video">
+	
+	<!-- Game Image -->
+		<image name="image-matte" extra="true">
+			<path>./../images/white.png</path>		
+			<origin>0.0 0.0</origin>
+			<pos>0.42 0.2025</pos>						
+			<size>0.55 0.4449</size>
+		</image>
+		
+	<!-- Metadata - Unused -->
+		<text name="md_lbl_players, md_players, md_lbl_genre, md_genre, md_lbl_developer, md_developer, md_lbl_publisher, md_publisher, md_lbl_releasedate">
+			<fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+		</text>
+		
+		<datetime name="md_releasedate">
+			<fontPath>./../fonts/AdobeBlank.ttf</fontPath>
+		</datetime>
+		
+	<!-- Description -->
+		<image name="description-matte" extra="true">
+			<path>./../images/white.png</path>
+			<origin>0 0</origin>
+			<pos>0.42 0.6759</pos>
+			<size>0.55 0.2161</size>
+		</image>
+		
+		<text name="md_description">
+			<fontSize>0.021</fontSize>
+			<lineSpacing>1.55</lineSpacing>
+			<pos>0.435 0.6925</pos>
+			<size>0.52 0.181</size>
+		</text>
+	</view>
+	
+</theme>
