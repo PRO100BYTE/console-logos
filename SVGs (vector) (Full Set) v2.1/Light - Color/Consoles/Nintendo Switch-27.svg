@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3839 807.2" style="enable-background:new 0 0 3839 807.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#E60012;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st3{filter:url(#Adobe_OpacityMaskFilter);}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st5{mask:url(#b_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;}
+	.st7{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st8{mask:url(#b_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st9{filter:url(#Adobe_OpacityMaskFilter_2_);}
+	.st10{mask:url(#b_2_);fill-rule:evenodd;clip-rule:evenodd;}
+	.st11{filter:url(#Adobe_OpacityMaskFilter_3_);}
+	.st12{mask:url(#b_7_);fill-rule:evenodd;clip-rule:evenodd;}
+	.st13{filter:url(#Adobe_OpacityMaskFilter_4_);}
+	.st14{mask:url(#b_8_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st15{filter:url(#Adobe_OpacityMaskFilter_5_);}
+	.st16{mask:url(#b_9_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st17{filter:url(#Adobe_OpacityMaskFilter_6_);}
+	.st18{mask:url(#b_3_);fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st19{filter:url(#Adobe_OpacityMaskFilter_7_);}
+	.st20{mask:url(#b_5_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st21{filter:url(#Adobe_OpacityMaskFilter_8_);}
+	.st22{mask:url(#b_6_);fill-rule:evenodd;clip-rule:evenodd;}
+	.st23{filter:url(#Adobe_OpacityMaskFilter_9_);}
+	.st24{mask:url(#b_12_);fill-rule:evenodd;clip-rule:evenodd;fill:#E60012;}
+	.st25{filter:url(#Adobe_OpacityMaskFilter_10_);}
+	.st26{mask:url(#b_10_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st27{filter:url(#Adobe_OpacityMaskFilter_11_);}
+	.st28{mask:url(#b_11_);fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<g>
+	<g transform="translate(0 -.187)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0.2" width="807.3" height="807.2">
+				<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="0" y="0.2" width="807.3" height="807.2" id="b_3_">
+			<g class="st3">
+				<path id="a_3_" class="st4" d="M807.2,807.4H0V0.2h807.2V807.4z"/>
+			</g>
+		</mask>
+		<path class="st18" d="M125.7,242.3c0,41.9,34,75.9,75.9,75.9s75.9-34,75.9-75.9c0-41.9-34-75.9-75.9-75.9c0,0,0,0-0.1,0
+			C159.7,166.4,125.7,200.4,125.7,242.3C125.7,242.3,125.7,242.3,125.7,242.3z M324.3,742.3H207c-37.7,0.1-73.8-14.8-100.4-41.5
+			c-26.7-26.5-41.7-62.7-41.6-100.4V207.1c0-37.9,14.8-73.5,41.5-100.3c26.6-26.7,62.7-41.7,100.4-41.6h117.2V742.3z M383.4,0.2H207
+			C92.7,0.2,0,92.8,0,207.1v393.3c0,114.3,92.7,207,207,207h176.4c3.3,0,5.9-2.6,5.9-5.9c0,0,0,0,0-0.1V6.1
+			C389.3,2.8,386.7,0.2,383.4,0.2C383.4,0.2,383.4,0.2,383.4,0.2z M629.8,362.5c45.1,0.9,80.9,38.2,80,83.3
+			c-0.9,43.8-36.2,79.1-80,80c-45.1-0.9-80.9-38.2-80-83.3C550.8,398.7,586,363.4,629.8,362.5z M476,807.4h124.2
+			c114.3,0,207-92.7,207-207V207.1c0-114.3-92.7-206.9-207-206.9H475.4c-2.9,0-5.2,2.3-5.3,5.1c0,0,0,0.1,0,0.1v796
+			C470.1,804.7,472.8,807.4,476,807.4L476,807.4z"/>
+	</g>
+	<path class="st2" d="M3182.5,195.3h-49.1V64.7h49.1c36,0.1,65.2,29.3,65.2,65.3C3247.7,166,3218.6,195.2,3182.5,195.3z
+		 M3180.2,17.4h-93.1v225.2h93.1c63.9,0,115.8-50.5,115.8-112.6C3296.1,67.9,3244.1,17.4,3180.2,17.4L3180.2,17.4z M3007.8,438.3
+		c48,0,92.7,25.6,116.6,65.9l69.2-60c-42-62.8-112.6-100.4-188.2-100.3c-125.1,0-226.8,101.7-226.8,226.7s101.7,226.7,226.8,226.7
+		c76,0,145.9-37.4,188.2-100.3l-69.2-60.1c-23.9,40.4-68.6,65.9-116.6,65.9c-74.3,0-134.7-59.3-134.7-132.3
+		C2873.1,497.6,2933.5,438.3,3007.8,438.3L3007.8,438.3z M2352.6,447.9h135.7v334.6h91.4V447.9h132.7v-90.2h-359.8L2352.6,447.9
+		L2352.6,447.9z M3576.9,525.2h-198.3V357.7h-87.9v424.8h87.9V613.1h198.3v169.4h87.9V357.7h-87.9V525.2z M3821.5,719.3l-15.9,46.3
+		l-16-46.3h-17.5v63.3h11.3v-48.5l16.5,47.9l0.1,0.6h11l0.2-0.6l16.5-47.9v48.5h11.3v-63.3L3821.5,719.3L3821.5,719.3z
+		 M3561.5,200.1c-38.6-0.1-69.9-31.4-69.9-70.1c0-38.6,31.4-70.1,69.9-70.1c38.7,0.1,69.9,31.4,70,70.1
+		C3631.5,168.7,3600.2,200,3561.5,200.1z M3561.5,9.9c-66.1,0-119.9,53.9-119.9,120.1c0,66.3,53.8,120.2,119.9,120.2
+		c66.2,0,120-53.9,120-120.2C3681.5,63.8,3627.7,9.9,3561.5,9.9L3561.5,9.9z M3706.4,731.5h19.4v51.1h12.2v-51.1h19.1v-12.2h-50.7
+		L3706.4,731.5L3706.4,731.5z M2508.2,200.9h-129.3v-52.8h119.6v-40.7h-119.6V58.8h129.3V17.4l-175.1,0.1v225.1l175.1-0.1
+		L2508.2,200.9L2508.2,200.9z M2896.7,242.6V17.4H2851v147.9L2740.3,17.4h-45.5v225.2h45.6V92.1l111.8,150.5L2896.7,242.6
+		L2896.7,242.6z M1395.3,242.6h50.1V17.4h-50.1V242.6L1395.3,242.6z M1199.9,524.5c-61.3-10.1-100.9-21.5-100.9-50
+		c0-33.1,44.1-45.7,103.3-45.7c55.1,0,110.3,21,130,29.2l30.2-73.4c-21.4-8.5-89.2-32.7-164.5-32.7c-91.8,0-189.4,44.8-189.4,127.7
+		c0,67.2,47.4,101.7,169.3,122.6c85.9,14.8,133.1,22.9,131.8,59.9c-0.8,20.3-16.5,54.4-113.3,54.4c-77.9,0-132.7-28.2-151.8-39.7
+		l-40.2,72.6c21.5,11.3,93.3,45,185.8,45c135.2,0,206.6-46.8,206.6-135.4C1396.9,607.5,1379.6,554,1199.9,524.5L1199.9,524.5z
+		 M1874.4,666l-89.9-308.3h-75.4l-89.6,307l-81.7-307h-92.4l120.2,424.8h102.1l79.1-279.8l78.7,279.8H1928l120.8-424.8h-92.4
+		L1874.4,666L1874.4,666z M1660.9,92.1l111.9,150.5h44.5V17.4h-45.7v147.9L1660.8,17.4h-45.5v225.2h45.6V92.1z M2154.4,782.5h94.5
+		V357.7h-94.5V782.5z M2168.3,17.4h-190.8v47.8h72v177.4h48.5V65.2h70.3L2168.3,17.4L2168.3,17.4z M1069.3,92.1l111.9,150.5h44.4
+		V17.4h-45.7v147.9L1069.2,17.4h-45.4v225.2h45.6L1069.3,92.1L1069.3,92.1z"/>
+</g>
+</svg>
