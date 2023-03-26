@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 3839 1276" style="enable-background:new 0 0 3839 1276;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F6BF16;}
+	.st2{fill:#943F95;}
+	.st3{fill:#62B947;}
+	.st4{fill:#E61D32;}
+	.st5{fill:#0F9AD6;}
+	.st6{fill:#F38020;}
+	.st7{clip-path:url(#SVGID_00000102534170916454358520000017465399935626295737_);fill:#62B947;}
+	.st8{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:29.6139;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{clip-path:url(#SVGID_00000165216693884380835640000015316019743836329354_);fill:#62B947;}
+</style>
+<g>
+	<g>
+		<rect x="5" y="5" class="st0" width="3829.1" height="1266.1"/>
+		<path class="st0" d="M3829.1,9.9v1256.1H9.9V9.9H3829.1 M3839,0h-9.9H9.9H0v9.9v1256.1v9.9h9.9h3819.1h9.9v-9.9V9.9V0L3839,0z"/>
+	</g>
+	<g>
+		<rect x="9.9" y="9.9" width="3819.1" height="1256.1"/>
+		<g>
+			<g>
+				<rect x="974.5" y="557.7" class="st1" width="152.6" height="403.1"/>
+				<circle class="st1" cx="1050.9" cy="382.6" r="91.3"/>
+			</g>
+			<g>
+				
+					<rect x="2661" y="315.2" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 5474.6938 1033.5078)" class="st2" width="152.6" height="403.1"/>
+				<circle class="st2" cx="2737.3" cy="893.4" r="91.3"/>
+			</g>
+			<path class="st3" d="M620.5,315.8v-0.6H467.9H315.2v645.6h152.6V739.3h140.1l0,0c147.2,0,220.8-106,217.7-212.1
+				C828.7,424.4,759.2,321.7,620.5,315.8z M583,614.2H467.9V440.3H583l0,0c58,0,87,43.5,87,87S640.9,614.2,583,614.2z"/>
+			<path class="st4" d="M2307,315.8v-0.6h-152.6h-152.6v645.6h152.6V739.3h140.1l0,0c147.2,0,220.8-106,217.7-212.1
+				C2515.2,424.4,2445.7,321.7,2307,315.8z M2269.4,614.2h-115.1V440.3h115.1v0c58,0,87,43.5,87,87S2327.4,614.2,2269.4,614.2z"/>
+			<polygon class="st5" points="3385.4,677.6 3154.6,315.2 3154.6,315.2 3028.9,315.2 3028.9,960.8 3167.2,960.8 3167.2,618.2 
+				3385.4,960.8 3523.8,960.8 3523.8,315.2 3385.4,315.2 			"/>
+			<path class="st6" d="M1495,739.3h140.1l0,0c147.2,0,220.8-106,217.7-212.1c3-102.9-66.5-205.5-205.2-211.5v-0.6H1495h-152.6
+				v645.6H1495V739.3z M1495,440.3h115.1l0,0c58,0,87,43.5,87,87s-29,87-87,87H1495V440.3z"/>
+		</g>
+	</g>
+</g>
+</svg>
