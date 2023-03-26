@@ -6,6 +6,9 @@ This repository is a kind of "mirror" of [Dan Patrick's logo set](https://archiv
 
 Original source: [Archive.org](https://archive.org/details/console-logos-professionally-redrawn-plus-official-versions).
 
+<br>
+
+# License
 
 All videogame and computer system logos used are the property of their respective Developers/Producers/Distributors/Licensors.
 
